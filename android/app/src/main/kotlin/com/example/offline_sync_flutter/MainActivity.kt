@@ -1,4 +1,4 @@
-package com.example.offline_sync_flutter
+package com.example.firebase1
 
 import io.flutter.embedding.android.FlutterActivity
 
