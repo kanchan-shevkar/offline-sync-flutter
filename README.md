@@ -85,11 +85,15 @@ flutter run
 
 ## App Screenshots
 
-!(assets/s1.png)
-!(assets/s2.png)
-!(assets/s3.png)
-!(assets/s4.png)
-!(assets/s5.png)
+![Screenshot 1](assets/s1.png)
+
+![Screenshot 2](assets/s2.png)
+
+![Screenshot 3](assets/s3.png)
+
+![Screenshot 4](assets/s4.png)
+
+![Screenshot 5](assets/s5.png)
 
 # offline_sync_flutter
 
